@@ -190,8 +190,10 @@ and our administrator may contact you if we need any extra information.</h4> -->
 <p>Registration for the workshop is currently <b>OPEN</b></p>
 <p>Students and staff at the University of Zurich will recieve priority access to the workshop.
 Once the workshop is filled, you will receive a non-automated email confirming your registration for the workshop.</p>
+<hr/>
 
-
+<h2 id="sponsor">Sponsorship</h2>
+<IMG SRC="fig/UZH_logo_borderGreen.png" ALIGN="top" width="160" height="160" />
 <hr/>
 
 {% comment %}
