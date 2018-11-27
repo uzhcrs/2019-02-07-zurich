@@ -196,7 +196,7 @@ Once the workshop is filled, you will receive a non-automated email confirming y
 <figure>
   <a href="https://www.crs.uzh.ch/en.html">
   <IMG SRC="fig/UZH_logo_borderGreen.png" ALIGN="top" width="160" height="160" />
-  <a/>
+  </a>
 <figure/>
 <p>This Software Carpentry Workshop is supported by the Center for Reproducible Science at the University of Zurich.</p>
 <hr/>
