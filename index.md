@@ -187,7 +187,7 @@ and our administrator may contact you if we need any extra information.</h4> -->
 <h2 id="registration">Workshop Registration</h2>
 <!-- <p>Please register for the workshop by completing the following registration form:</p>
 <p><a href="https://goo.gl/forms/RrXQa6lz5J4IwUGv2">Registration Form</a></p> -->
-<p>The workshop is fullyu subscribed and registration is currently <b>CLOSED</b></p>
+<p>The workshop is fully subscribed and registration is currently <b>CLOSED</b></p>
 <p>Students and staff at the University of Zurich will recieve priority access to the workshop.
 Once the workshop is filled, you will receive a non-automated email confirming your registration for the workshop.</p>
 <hr/>
